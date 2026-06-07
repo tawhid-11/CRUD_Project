@@ -1,0 +1,11 @@
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\bin\Debug\net8.0\CRUD.Core.deps.json
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\bin\Debug\net8.0\CRUD.Core.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\bin\Debug\net8.0\CRUD.Core.pdb
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\CRUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\CRUD.Core.AssemblyInfoInputs.cache
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\CRUD.Core.AssemblyInfo.cs
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\CRUD.Core.csproj.CoreCompileInputs.cache
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\CRUD.Core.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\refint\CRUD.Core.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\CRUD.Core.pdb
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Core\obj\Debug\net8.0\ref\CRUD.Core.dll

@@ -1,0 +1,17 @@
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.csproj.AssemblyReference.cache
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.AssemblyInfoInputs.cache
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.AssemblyInfo.cs
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.deps.json
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.pdb
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Application.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Core.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Application.pdb
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Core.pdb
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Inf.43FAA5D9.Up2Date
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\refint\CRUD.Infrastructure.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.pdb
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\ref\CRUD.Infrastructure.dll
