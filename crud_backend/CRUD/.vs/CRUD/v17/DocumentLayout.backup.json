@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\CRUD_Project\\crud_backend\\CRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|d:\\crud_project\\crud_backend\\crud\\crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|d:\\crud_project\\crud_backend\\crud\\crud.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|solutionrelative:crud.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|d:\\crud_project\\crud_backend\\crud\\crud.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|d:\\crud_project\\crud_backend\\crud\\crud.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|d:\\crud_project\\crud_backend\\crud\\crud.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|solutionrelative:crud.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|d:\\crud_project\\crud_backend\\crud\\crud.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|solutionrelative:crud.application\\category dto\\categoryfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|d:\\crud_project\\crud_backend\\crud\\crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D6A8FD1-1D11-4745-BB3A-32EBF758E603}|CRUD.API\\CRUD.API.csproj|solutionrelative:crud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|d:\\crud_project\\crud_backend\\crud\\crud.application\\category dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B72C944-2204-45F9-B3B4-5FB8AC122232}|CRUD.Application\\CRUD.Application.csproj|solutionrelative:crud.application\\category dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -94,17 +94,49 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         },
         {
           "DockedHeight": 1323,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CategoryControllerTests.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Tests\\Controllers\\CategoryControllerTests.cs",
               "RelativeDocumentMoniker": "CRUD.Tests\\Controllers\\CategoryControllerTests.cs",
@@ -112,12 +144,11 @@
               "RelativeToolTip": "CRUD.Tests\\Controllers\\CategoryControllerTests.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T14:36:12.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T14:36:12.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductControllerTests.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Tests\\Controllers\\ProductControllerTests.cs",
               "RelativeDocumentMoniker": "CRUD.Tests\\Controllers\\ProductControllerTests.cs",
@@ -125,12 +156,11 @@
               "RelativeToolTip": "CRUD.Tests\\Controllers\\ProductControllerTests.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T14:08:33.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T14:08:33.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CategoryServiceTests.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Tests\\Services\\CategoryServiceTests.cs",
               "RelativeDocumentMoniker": "CRUD.Tests\\Services\\CategoryServiceTests.cs",
@@ -138,12 +168,11 @@
               "RelativeToolTip": "CRUD.Tests\\Services\\CategoryServiceTests.cs",
               "ViewState": "AgIAABoAAACARTMzMzMawCsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T13:33:48.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T13:33:48.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductServiceTests.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Tests\\Services\\ProductServiceTests.cs",
               "RelativeDocumentMoniker": "CRUD.Tests\\Services\\ProductServiceTests.cs",
@@ -151,12 +180,11 @@
               "RelativeToolTip": "CRUD.Tests\\Services\\ProductServiceTests.cs",
               "ViewState": "AgIAAN8AAAAAAAAAAAAqwGoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T08:24:14.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T08:24:14.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Infrastructure\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "CRUD.Infrastructure\\Repositories\\CategoryRepository.cs",
@@ -164,12 +192,11 @@
               "RelativeToolTip": "CRUD.Infrastructure\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAjwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T12:33:29.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T12:33:29.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Repositoy Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Repositoy Interfaces\\ICategoryRepository.cs",
@@ -177,12 +204,11 @@
               "RelativeToolTip": "CRUD.Application\\Repositoy Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T12:32:57.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T12:32:57.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CategoryFilterDto.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Category Dto\\CategoryFilterDto.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Category Dto\\CategoryFilterDto.cs",
@@ -190,12 +216,11 @@
               "RelativeToolTip": "CRUD.Application\\Category Dto\\CategoryFilterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T12:30:04.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T12:30:04.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Service Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Service Interfaces\\IProductService.cs",
@@ -203,12 +228,11 @@
               "RelativeToolTip": "CRUD.Application\\Service Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:00:47.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T10:00:47.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\UOW_Interface\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\UOW_Interface\\IUnitOfWork.cs",
@@ -216,25 +240,24 @@
               "RelativeToolTip": "CRUD.Application\\UOW_Interface\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T09:47:57.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T09:47:57.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Services\\ProductService.cs",
               "ToolTip": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Services\\ProductService.cs",
               "RelativeToolTip": "CRUD.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T09:32:44.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "CRUD.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -242,12 +265,11 @@
               "RelativeToolTip": "CRUD.Infrastructure\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAhwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T09:29:19.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T09:29:19.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Repositoy Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Repositoy Interfaces\\IProductRepository.cs",
@@ -255,12 +277,11 @@
               "RelativeToolTip": "CRUD.Application\\Repositoy Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAtwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T09:28:31.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T09:28:31.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProductFilterDto.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Product Dto\\ProductFilterDto.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Product Dto\\ProductFilterDto.cs",
@@ -268,12 +289,11 @@
               "RelativeToolTip": "CRUD.Application\\Product Dto\\ProductFilterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T09:26:57.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T09:26:57.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\DependencyInjection.cs",
@@ -281,25 +301,24 @@
               "RelativeToolTip": "CRUD.Application\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T10:48:28.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T10:48:28.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "CRUD.API\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "CRUD.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T08:50:30.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.API\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "CRUD.API\\Controllers\\CategoryController.cs",
@@ -307,12 +326,11 @@
               "RelativeToolTip": "CRUD.API\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAIA2wCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T07:41:16.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T07:41:16.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Services\\CategoryService.cs",
@@ -320,12 +338,11 @@
               "RelativeToolTip": "CRUD.Application\\Services\\CategoryService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAnwC4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T06:01:54.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T06:01:54.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.Application\\Service Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "CRUD.Application\\Service Interfaces\\ICategoryService.cs",
@@ -333,8 +350,7 @@
               "RelativeToolTip": "CRUD.Application\\Service Interfaces\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T06:01:37.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T06:01:37.642Z"
             },
             {
               "$type": "Document",
@@ -346,21 +362,80 @@
               "RelativeToolTip": "CRUD.Application\\Category Dto\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T05:40:05.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T05:40:05.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.API\\Program.cs",
               "RelativeDocumentMoniker": "CRUD.API\\Program.cs",
               "ToolTip": "D:\\CRUD_Project\\crud_backend\\CRUD\\CRUD.API\\Program.cs",
               "RelativeToolTip": "CRUD.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T17:17:35.477Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
