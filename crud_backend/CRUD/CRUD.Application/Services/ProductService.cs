@@ -14,6 +14,8 @@ namespace CRUD.Application.Services
         }
         public async Task<IEnumerable<ProductDto>> GetAllProductsAsync()
         {
+            await Task.Delay(1000);
+
             var products = await _uow.Productrepository.GetAllAsync();
             return products.Select(p => new ProductDto
             {
