@@ -18,6 +18,7 @@ namespace CRUD.Application.Services
         }
         public async Task<IEnumerable<CategoryDto>> GetAllCategoriesAsync()
         {
+            await Task.Delay(1000);
             var categories = await _uow.categoryRepository.GetAllAsync();
             return categories.Select(c => new CategoryDto
             {
