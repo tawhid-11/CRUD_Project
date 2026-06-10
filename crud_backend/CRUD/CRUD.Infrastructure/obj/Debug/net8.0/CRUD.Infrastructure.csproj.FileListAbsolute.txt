@@ -15,3 +15,4 @@ D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infr
 D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\refint\CRUD.Infrastructure.dll
 D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.pdb
 D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\ref\CRUD.Infrastructure.dll
+D:\CRUD_Project\crud_backend\CRUD\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.sourcelink.json
